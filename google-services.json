@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662645937642",
+    "project_id": "wesmoblielogin",
+    "storage_bucket": "wesmoblielogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662645937642:android:876b5f8cab464feff8ce93",
+        "android_client_info": {
+          "package_name": "com.example.wesmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTyq4XU9QWelMUOPSLZ6we-Dci4hQfcYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
